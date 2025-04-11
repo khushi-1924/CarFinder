@@ -36,7 +36,7 @@ carfinder/
 
 ## Getting Started
 1. Clone the Repository
-git clone https://github.com/your-username/carfinder.git
+https://github.com/khushi-1924/CarFinder.git
 cd carfinder
 
 2. Install Dependencies
