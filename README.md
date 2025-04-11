@@ -1,7 +1,3 @@
-## this website is created using vite
-## reactJs is the framework used and tailwindCSS is used for the UI
-
-## created a mock API using mockaroo for cars
 
 ## CarFinder
 CarFinder is a responsive car browsing web app built using React. Users can search, filter, and browse through a list of cars, and maintain a wishlist. The app supports dark/light mode and pagination for better usability.
@@ -45,8 +41,9 @@ cd carfinder
 
 2. Install Dependencies
 npm install
+npm install tailwindcss @tailwindcss/vite
 
-3. Run the App
+4. Run the App
 npm run dev
 App will run locally at: http://localhost:5173
 
